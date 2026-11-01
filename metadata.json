@@ -1,0 +1,6 @@
+{
+  "name": "OPEN LANGUAGE",
+  "description": "Learn Any Language. Anywhere. Anytime. Multilingual learning with Poly the Parrot, interactive lessons, 10 games, and AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
